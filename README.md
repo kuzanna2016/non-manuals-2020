@@ -1,5 +1,5 @@
 # non-manuals-2020
-Materials from "Using Computer Vision to Analyze Non-manual Marking of Questions in KRSL".
+Materials from ["Using Computer Vision to Analyze Non-manual Marking of Questions in KRSL"](https://aclanthology.org/2021.mtsummit-at4ssl.6/).
 This is a pilot project. For more detailed version see ["Functional Data Analysis of Non-manual Marking of Questions in Sign Languages"](https://github.com/kuzanna2016/non-manuals-2021)
 
 The repository contains:
